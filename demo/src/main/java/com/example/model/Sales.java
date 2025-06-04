@@ -1,4 +1,4 @@
-package com.example.salesdataanalysis.model;
+  package com.example.salesdataanalysis.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

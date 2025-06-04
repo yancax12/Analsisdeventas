@@ -1,3 +1,4 @@
+
 package com.example.salesdataanalysis.controller;
 
 import com.example.salesdataanalysis.model.Sales;

@@ -39,7 +39,7 @@
         </dependency>
 
         <!-- Dependencia para Spring Boot Starter Test (Para pruebas unitarias y de integración) -->
-        <dependency>
+    <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
